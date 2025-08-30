@@ -1,4 +1,4 @@
-![Alt text]([https://your-image-url.com/image.jpg](https://th.bing.com/th/id/OIP.2UYQ3wtI8vi7n9L3YLuVhQHaEK?w=306&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3))
+![Alt text](https://th.bing.com/th/id/OIP.2UYQ3wtI8vi7n9L3YLuVhQHaEK?w=306&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3)
 ## I'm Brian Karanja
 I'm an IT student at the University of Embu, passionate about crafting digital experiences that are clear, purposeful, and culturally aware. My journey blends frontend finesse with backend logic, spiritual symbolism with systems thinking, and curiosity with intentional design.
 
